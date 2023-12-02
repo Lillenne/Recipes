@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes", "Recipes\Recipes\Recipes.csproj", "{02C2F98A-216B-4FC8-BC57-0043B7F8527B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes.Client", "Recipes\Recipes.Client\Recipes.Client.csproj", "{38B03146-FDDE-4245-8C7A-5E1C999E8185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C2F98A-216B-4FC8-BC57-0043B7F8527B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C2F98A-216B-4FC8-BC57-0043B7F8527B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C2F98A-216B-4FC8-BC57-0043B7F8527B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C2F98A-216B-4FC8-BC57-0043B7F8527B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B03146-FDDE-4245-8C7A-5E1C999E8185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B03146-FDDE-4245-8C7A-5E1C999E8185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B03146-FDDE-4245-8C7A-5E1C999E8185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B03146-FDDE-4245-8C7A-5E1C999E8185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0328772A-BB3C-447F-B3EB-F4A7D82AC2DC}
+	EndGlobalSection
+EndGlobal
